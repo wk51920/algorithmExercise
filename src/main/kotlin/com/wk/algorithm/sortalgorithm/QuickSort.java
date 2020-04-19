@@ -1,4 +1,4 @@
-package com.wk.algorithm.sortAlgorithm;
+package com.wk.algorithm.sortalgorithm;
 
 import org.apache.commons.lang3.ArrayUtils;
 
